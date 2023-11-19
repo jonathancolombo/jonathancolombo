@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jonathancolombo.jonathancolombo&"  />
 </div>
 
 ###
@@ -30,8 +30,8 @@
 
 ###
 
-<p align="left">I'm Jonathan from Italy, and I study CS at University of Florence. I really enjoy learning languages, design pattern, advanced programming techniques and algorithms. 
-<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning MatLab<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. I really enjoy learning languages, design pattern, advanced programming techniques and algorithms. 
+<br><br>- 🔭 I’m finishing the first cycle degree<br>- 📚 I'm currently learning MatLab<br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends </p>
 
 ###
 
