@@ -2,6 +2,7 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
+
 ###
 
 <div align="center">
@@ -15,11 +16,11 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jonathancolombo.jonathancolombo&"  />
 </div>
-
+-->
 ###
 
 <h1 align="center">Hey there 👋</h1>
@@ -31,7 +32,7 @@
 ###
 
 <p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. I really enjoy learning languages, design pattern, advanced programming techniques and algorithms. 
-<br><br>- 🔭 I’m finishing the first cycle degree<br>- 📚 I'm currently learning MatLab<br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends </p>
+<br><br>- 🔭 I’m finishing the first cycle degree<br>- 📚 I'm currently learning MatLab<br> 🎯 Goals: became a good software engineer and live in a quiet place <br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends </p>
 
 ###
 
