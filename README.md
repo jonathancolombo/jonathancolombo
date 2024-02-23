@@ -19,7 +19,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jonathancolombo.jonathancolombo&"  />
 </div>
-###
 
 <h1 align="center">Hey there 👋</h1>
 
