@@ -29,9 +29,9 @@
 
 ###
 
-<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. I really enjoy learning languages, design pattern, advanced programming techniques and algorithms. 
-<br><br>- 🔭 I’m finishing the first cycle degree<br>- 📚 I'm currently learning MatLab<br>- 🎯 Goals: become a good software engineer and live in a quiet place <br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends and my girlfriend.
-    <br>- ✅ Hobbies and interests: software engineering, history, travelling, motorcycles, technology, cooking and playing guitar</p>
+<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. I really enjoy learning programming languages, design pattern, advanced programming techniques, algorithms, data structures and solve coding problems. 
+<br><br>- 🔭 I’m finishing the first cycle degree<br>- 📚 I'm currently learning MatLab<br>- 🎯 Goals: become a software engineer <br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends and my girlfriend.
+    <br>- ✅ Hobbies and interests: software engineering, videogames, science, history, travelling, motorcycles, technology, cooking and playing guitar</p>
 
 ###
 
