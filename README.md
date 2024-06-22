@@ -29,9 +29,9 @@
 
 ###
 
-<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. I really enjoy learning programming languages, design pattern, advanced programming techniques, algorithms, data structures and solve coding problems. 
-<br><br>- 🔭 I’m finishing the first cycle degree<br>- 📚 I'm currently learning MatLab<br>- 🎯 Goals: become a software engineer <br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends and my girlfriend.
-    <br>- ✅ Hobbies and interests: software engineering, videogames, science, history, travelling, motorcycles, technology, cooking and playing guitar</p>
+<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. I really enjoy learning programming languages, design pattern, advanced programming techniques, algorithms, data structures, design on languages and solve coding problems. 
+<br><br>- 🔭 I’m finishing the first cycle degree<br>- 📚 I'm currently learning design and theory on DSL -> click here for more informations: https://www.jetbrains.com/mps/concepts/domain-specific-languages/ <br>- 🎯 Goals: become a software architect <br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends and my girlfriend.
+    <br>- ✅ Hobbies and interests: computer science, videogames, science, history, travelling, motorcycles, technology and cooking</p>
 
 ###
 
@@ -44,11 +44,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo"  />
   <img width="12" />
@@ -57,6 +59,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original-wordmark.svg" height="40" alt="windows-11 logo"  />
 </div>
 
 ###
