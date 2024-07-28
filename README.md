@@ -29,8 +29,8 @@
 
 ###
 
-<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. I really enjoy learning programming languages, design pattern, advanced programming techniques, algorithms, data structures, design on languages and solve coding problems. 
-<br><br>- 🔭 I’m finishing the first cycle degree;<br>- 📚 I'm currently learning design and theory on DSL -> click here for more informations: https://www.jetbrains.com/mps/concepts/domain-specific-languages/ <br>- 🎯 Goals: become a software architect; <br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends and my girlfriend;
+<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. Areas of interests: Software Engineering, Software Architectures and Methodologies, Algorithm and Data Structures, Safety and Security of Critical Systems. 
+<br><br>- 🔭 I’m finishing the first cycle degree;<br>- 📚 I'm currently learning Stochastic models for the quantitative evaluation of the safety and security of critical systems. <br>- 🎯 Goals: become a software architect; <br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends and my girlfriend;
     <br>- ✅ Hobbies and interests: computer science, videogames, science, history, travelling, motorcycles, technology and cooking.</p>
 
 ###
