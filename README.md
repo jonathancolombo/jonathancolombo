@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. Areas of interests: Software Engineering, Software Architectures and Methodologies, Algorithm and Data Structures, Safety and Security of Critical Systems. 
+<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. Areas of interests: Software Engineering, Software Architectures, Distributed Programming, Algorithms and Data Structures, Safety and Security of Critical Systems. 
 <br><br>- 🔭 I’m finishing the first cycle degree;<br>- 📚 I'm currently learning stochastic models and combinatorial methods for the quantitative evaluation for the safety and reliability of dependable systems. <br>- 🎯 Goals: become a software architect; <br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends and my girlfriend;
     <br>- ✅ Hobbies and interests: computer science, videogames, science, history, travelling, motorcycles, technology and cooking.</p>
 
