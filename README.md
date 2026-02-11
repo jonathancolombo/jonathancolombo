@@ -29,9 +29,12 @@
 
 ###
 
-<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. Areas of interests: Software Engineering, Algorithms, Data Structures, Safety and Security of Critical Systems. 
-<br><br>- 📚 I'm currently started the master degree in Software Science & Technology. <br>- 🎯 Goals: become a software architect; <br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends and my girlfriend;
-    <br>- ✅ Hobbies and interests: computer science, games, science, history, travelling, motorcycles, technology and cooking.</p>
+<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. Areas of interests: Software Engineering, Software Architecture, Algorithms, Data Structures, Safety and Security of Critical Systems. 
+<br>
+  <br>- 📚 I'm currently started the master degree in Software Science & Technology. 
+  <br>- 🎯 Goals: become a software architect; 
+  <br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends and my girlfriend;
+  <br>- ✅ Hobbies and interests: computer science, games, science, history, travelling, motorcycles, technology and cooking.</p>
 
 ###
 
@@ -40,9 +43,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -50,19 +51,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original-wordmark.svg" height="40" alt="windows-11 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains ide logo"  />
 </div>
 
 ###
