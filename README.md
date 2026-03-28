@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. Areas of interests: Software Engineering, Software Architecture, Algorithms, Data Structures, Dependable Systems, Embedded Systems. 
+<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. Areas of interests: Software Engineering, Software Architecture, Algorithms, Data Structures, Dependable Systems, Embedded Systems, Computer Architectures. 
 <br>
   <br>- 📚 I'm currently started the master degree in Software Science & Technology. 
   <br>- 🎯 Goals: become a software architect; 
