@@ -29,13 +29,13 @@
 
 ###
 
-<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. Areas of interests: Software Engineering, Software Architecture, Algorithms, Data Structures, Dependable Systems, Embedded Systems, Computer Architectures. 
+<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. Areas of interests: Software Engineering, Computer Architectures, Safety & Security of Dependable Systems. 
 <br>
   <br>- 📚 I'm currently started the master degree in Software Science & Technology. 
   <br>- 💻 I'm working for P.R.S, a Caterpillar company and currently I develop and design software for onboard railways systems.
-  <br>- 🎯 Goals: become a software architect; 
-  <br>- ⚡ In my free time 🏍️ I drive my SV650N and I have fun with my friends and my girlfriend;
-  <br>- ✅ Hobbies and interests: computer science, games, science, history, travelling, motorcycles, technology and cooking.</p>
+  <br>- 🎯 Goals: become a Software Architect; 
+  <br>- ⚡ In my free time I have fun with my friends and my girlfriend;
+  <br>- ✅ Hobbies and interests: computer science, general sciences, history, travelling, motorcycles, technology and cooking.</p>
 
 ###
 
