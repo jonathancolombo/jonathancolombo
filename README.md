@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. Areas of interests: Software Engineering, Computer Architectures, Safety & Security of Dependable Systems. 
+<p align="left">I'm Jonathan from Italy, and I study computer science at University of Florence. Areas of interests: Software Engineering, Distributed Computing, Safety & Security of Dependable Systems. 
 <br>
   <br>- 📚 I'm currently started the master degree in Software Science & Technology. 
   <br>- 💻 I'm working for P.R.S, a Caterpillar company and currently I develop and design software for onboard railways systems.
